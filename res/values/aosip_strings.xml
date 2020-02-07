@@ -16,6 +16,12 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <string name="primary_component_title">Choose primary color</string>
+    <string name="preview_name_primary">Primary color</string>
+    <string name="preview_name_color_new">Accent color</string>
+    <string name="color_component_title_new">Choose accent color</string>
+    <string name="no_options_message">No valid primary colors available</string>
+
     <string name="show_statusarea">Show status area (weather etc.)</string>
     <string name="applied_changes_msg">Clock settings applied (SysUI restart may be required)</string>
 
